@@ -1,0 +1,5 @@
+[run]
+include = pforms_r/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
